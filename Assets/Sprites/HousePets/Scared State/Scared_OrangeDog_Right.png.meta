@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 3f90b3135152d4c45891365eb161de25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1385374361282355071
+    second: Scared_OrangeDog_Right_0
+  - first:
+      213: -5567323519852061404
+    second: Scared_OrangeDog_Right_1
+  - first:
+      213: 195809117780609610
+    second: Scared_OrangeDog_Right_2
+  - first:
+      213: -4983139762945563960
+    second: Scared_OrangeDog_Right_3
+  - first:
+      213: 2219494554639420587
+    second: Scared_OrangeDog_Right_4
+  - first:
+      213: -3972966296101614990
+    second: Scared_OrangeDog_Right_5
+  - first:
+      213: -3034251707210745534
+    second: Scared_OrangeDog_Right_6
+  - first:
+      213: 3389302775679200904
+    second: Scared_OrangeDog_Right_7
+  - first:
+      213: -4586404506148655916
+    second: Scared_OrangeDog_Right_8
+  - first:
+      213: 776827282841216130
+    second: Scared_OrangeDog_Right_9
+  - first:
+      213: 2011142788495900269
+    second: Scared_OrangeDog_Right_10
+  - first:
+      213: -3466554981743561683
+    second: Scared_OrangeDog_Right_11
+  - first:
+      213: 674394841818631368
+    second: Scared_OrangeDog_Right_12
+  - first:
+      213: 6767499223740592004
+    second: Scared_OrangeDog_Right_13
+  - first:
+      213: -2229821035564840678
+    second: Scared_OrangeDog_Right_14
+  - first:
+      213: 8904821995974604394
+    second: Scared_OrangeDog_Right_15
+  - first:
+      213: -3448398893405678435
+    second: Scared_OrangeDog_Right_16
+  - first:
+      213: 984917788098448347
+    second: Scared_OrangeDog_Right_17
+  - first:
+      213: -1608103580907600626
+    second: Scared_OrangeDog_Right_18
+  - first:
+      213: 5954843036266561617
+    second: Scared_OrangeDog_Right_19
+  - first:
+      213: 3261738885879379504
+    second: Scared_OrangeDog_Right_20
+  - first:
+      213: -8976756416825432399
+    second: Scared_OrangeDog_Right_21
+  - first:
+      213: -8332582212034934989
+    second: Scared_OrangeDog_Right_22
+  - first:
+      213: 6021423034829707821
+    second: Scared_OrangeDog_Right_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f1b2d34a6d93310800000000000000
+      internalID: 1385374361282355071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 20
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d5a8171c4ecb2b0800000000000000
+      internalID: -5567323519852061404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 21
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a881dea57a7b200800000000000000
+      internalID: 195809117780609610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2618399c458dab0800000000000000
+      internalID: -4983139762945563960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac423eb98a3dce10800000000000000
+      internalID: 2219494554639420587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 19
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a834014303dd8c0800000000000000
+      internalID: -3972966296101614990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 21
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249b490062c24e5d0800000000000000
+      internalID: -3034251707210745534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88eaa9ccae8390f20800000000000000
+      internalID: 3389302775679200904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 25
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc22c6c661d950c0800000000000000
+      internalID: -4586404506148655916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28425954c48d7ca00800000000000000
+      internalID: 776827282841216130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 25
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ef2ece5b309eb10800000000000000
+      internalID: 2011142788495900269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 22
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2470d65c9254efc0800000000000000
+      internalID: -3466554981743561683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc84f8198eeb5900800000000000000
+      internalID: 674394841818631368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 12
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f2ac030bcfaed50800000000000000
+      internalID: 6767499223740592004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19c67e05951e01e0800000000000000
+      internalID: -2229821035564840678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66b622fc68449b70800000000000000
+      internalID: 8904821995974604394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 7
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9454b21a73d420d0800000000000000
+      internalID: -3448398893405678435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb429c82812bad00800000000000000
+      internalID: 984917788098448347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0508f1305edea9e0800000000000000
+      internalID: -1608103580907600626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15080edf03ad3a250800000000000000
+      internalID: 5954843036266561617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0363bea3c36044d20800000000000000
+      internalID: 3261738885879379504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b669eb89972c6380800000000000000
+      internalID: -8976756416825432399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 7
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3374be540a8bc5c80800000000000000
+      internalID: -8332582212034934989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_OrangeDog_Right_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a1169e854609350800000000000000
+      internalID: 6021423034829707821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Scared_OrangeDog_Right_0: 1385374361282355071
+      Scared_OrangeDog_Right_1: -5567323519852061404
+      Scared_OrangeDog_Right_10: 2011142788495900269
+      Scared_OrangeDog_Right_11: -3466554981743561683
+      Scared_OrangeDog_Right_12: 674394841818631368
+      Scared_OrangeDog_Right_13: 6767499223740592004
+      Scared_OrangeDog_Right_14: -2229821035564840678
+      Scared_OrangeDog_Right_15: 8904821995974604394
+      Scared_OrangeDog_Right_16: -3448398893405678435
+      Scared_OrangeDog_Right_17: 984917788098448347
+      Scared_OrangeDog_Right_18: -1608103580907600626
+      Scared_OrangeDog_Right_19: 5954843036266561617
+      Scared_OrangeDog_Right_2: 195809117780609610
+      Scared_OrangeDog_Right_20: 3261738885879379504
+      Scared_OrangeDog_Right_21: -8976756416825432399
+      Scared_OrangeDog_Right_22: -8332582212034934989
+      Scared_OrangeDog_Right_23: 6021423034829707821
+      Scared_OrangeDog_Right_3: -4983139762945563960
+      Scared_OrangeDog_Right_4: 2219494554639420587
+      Scared_OrangeDog_Right_5: -3972966296101614990
+      Scared_OrangeDog_Right_6: -3034251707210745534
+      Scared_OrangeDog_Right_7: 3389302775679200904
+      Scared_OrangeDog_Right_8: -4586404506148655916
+      Scared_OrangeDog_Right_9: 776827282841216130
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
