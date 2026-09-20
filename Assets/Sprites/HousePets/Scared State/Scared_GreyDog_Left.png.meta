@@ -97,7 +97,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -111,7 +111,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -135,7 +135,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -164,11 +164,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 22
-        width: 10
-        height: 7
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -185,12 +185,12 @@ TextureImporter:
       name: Scared_GreyDog_Left_1
       rect:
         serializedVersion: 2
-        x: 4
+        x: 32
         y: 0
-        width: 29
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -207,12 +207,12 @@ TextureImporter:
       name: Scared_GreyDog_Left_2
       rect:
         serializedVersion: 2
-        x: 22
-        y: 19
-        width: 20
-        height: 9
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -229,12 +229,12 @@ TextureImporter:
       name: Scared_GreyDog_Left_3
       rect:
         serializedVersion: 2
-        x: 35
-        y: 24
-        width: 7
-        height: 7
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -247,385 +247,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Scared_GreyDog_Left_4
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 0
-        width: 27
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 411ed44afc44e0440800000000000000
-      internalID: 4903932702858535188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scared_GreyDog_Left_5
-      rect:
-        serializedVersion: 2
-        x: 55
-        y: 25
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 541fb39e40ac04fb0800000000000000
-      internalID: -4665507091514134203
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scared_GreyDog_Left_6
-      rect:
-        serializedVersion: 2
-        x: 55
-        y: 21
-        width: 10
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ef7fe67839746ff60800000000000000
-      internalID: 8067714481438783486
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scared_GreyDog_Left_7
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 33
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d3f5aaacf2c8929b0800000000000000
-      internalID: -5104394565756231875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scared_GreyDog_Left_8
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ff5ef35a6715e2680800000000000000
-      internalID: -8777989053678098945
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scared_GreyDog_Left_9
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 20
-        width: 9
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1f9790059506e2e20800000000000000
-      internalID: 3327703111384529393
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scared_GreyDog_Left_10
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 24
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 76df4580126c09a30800000000000000
-      internalID: 4220090696022162791
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scared_GreyDog_Left_11
-      rect:
-        serializedVersion: 2
-        x: 118
-        y: 20
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6f35772c148ac9d90800000000000000
-      internalID: -7089606712999062538
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scared_GreyDog_Left_12
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 11
-        width: 8
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fd9b415188ccfd0a0800000000000000
-      internalID: -6854535222993307169
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scared_GreyDog_Left_13
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 12
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fa52ea9487f9b3cc0800000000000000
-      internalID: -3730212527365282385
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scared_GreyDog_Left_14
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 18
-        width: 10
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a12969de6d09eaf80800000000000000
-      internalID: -8093372227554733542
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scared_GreyDog_Left_15
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 4
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 202177728fae98640800000000000000
-      internalID: 5082852005999219202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scared_GreyDog_Left_16
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 3
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7912a6434d3217830800000000000000
-      internalID: 4067071332811678103
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scared_GreyDog_Left_17
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 3
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f1e084872703e1c80800000000000000
-      internalID: -8350183390895927777
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scared_GreyDog_Left_18
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 2
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b1161f7fdf3283900800000000000000
-      internalID: 664320518730637595
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scared_GreyDog_Left_19
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 1
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 74d563ee3228fc270800000000000000
-      internalID: 8272974131334896967
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scared_GreyDog_Left_20
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 0
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1a60e22269dd3ded0800000000000000
-      internalID: -2390323340315326815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e59b241e2a216d4429ae9eb25a98521e
     internalID: 0
     vertices: []
     indices: 
@@ -633,29 +259,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Scared_GreyDog_Left_0: -3323099442114377261
       Scared_GreyDog_Left_1: -6772554742210292182
-      Scared_GreyDog_Left_10: 4220090696022162791
-      Scared_GreyDog_Left_11: -7089606712999062538
-      Scared_GreyDog_Left_12: -6854535222993307169
-      Scared_GreyDog_Left_13: -3730212527365282385
-      Scared_GreyDog_Left_14: -8093372227554733542
-      Scared_GreyDog_Left_15: 5082852005999219202
-      Scared_GreyDog_Left_16: 4067071332811678103
-      Scared_GreyDog_Left_17: -8350183390895927777
-      Scared_GreyDog_Left_18: 664320518730637595
-      Scared_GreyDog_Left_19: 8272974131334896967
       Scared_GreyDog_Left_2: -1117227490585101237
-      Scared_GreyDog_Left_20: -2390323340315326815
       Scared_GreyDog_Left_3: -1812051837674539950
-      Scared_GreyDog_Left_4: 4903932702858535188
-      Scared_GreyDog_Left_5: -4665507091514134203
-      Scared_GreyDog_Left_6: 8067714481438783486
-      Scared_GreyDog_Left_7: -5104394565756231875
-      Scared_GreyDog_Left_8: -8777989053678098945
-      Scared_GreyDog_Left_9: 3327703111384529393
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

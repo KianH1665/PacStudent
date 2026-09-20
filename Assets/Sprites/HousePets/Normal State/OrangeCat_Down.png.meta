@@ -46,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -60,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -84,7 +84,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -109,89 +109,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: OrangeCat_Forward_0
+      name: OrangeCat_Down_0
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 0
-        width: 30
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 53d8379754482cda0800000000000000
-      internalID: -5926028725740925643
+      spriteID: 6371454e7cd525a4880a5fa625b43578
+      internalID: -478104421
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OrangeCat_Forward_1
+      name: OrangeCat_Down_1
       rect:
         serializedVersion: 2
-        x: 33
+        x: 32
         y: 0
-        width: 30
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8642b0a248f6caf30800000000000000
-      internalID: 4588164733815432296
+      spriteID: 37462d2a98d1c314d9adfd1ac8238c1c
+      internalID: 50146835
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OrangeCat_Forward_2
+      name: OrangeCat_Down_2
       rect:
         serializedVersion: 2
-        x: 65
+        x: 64
         y: 0
-        width: 30
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 81cec8861b24e5d20800000000000000
-      internalID: 3269123709248269336
+      spriteID: 2a425d8c21f69f84e9174e930b70fbf4
+      internalID: -191181778
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: OrangeCat_Forward_3
+      name: OrangeCat_Down_3
       rect:
         serializedVersion: 2
-        x: 97
+        x: 96
         y: 0
-        width: 30
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ccf59419ebad4ebc0800000000000000
-      internalID: -3754635677304004660
+      spriteID: 4452aae90f8d2b54c956edd7b14e7898
+      internalID: 481136915
       vertices: []
       indices: 
       edges: []
@@ -200,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 384310dfec9651b48884f8db5091a132
     internalID: 0
     vertices: []
     indices: 
@@ -208,12 +208,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      OrangeCat_Forward_0: -5926028725740925643
-      OrangeCat_Forward_1: 4588164733815432296
-      OrangeCat_Forward_2: 3269123709248269336
-      OrangeCat_Forward_3: -3754635677304004660
+      OrangeCat_Down_0: -478104421
+      OrangeCat_Down_1: 50146835
+      OrangeCat_Down_2: -191181778
+      OrangeCat_Down_3: 481136915
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

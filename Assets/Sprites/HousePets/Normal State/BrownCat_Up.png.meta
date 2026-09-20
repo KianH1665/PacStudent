@@ -46,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -60,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -84,7 +84,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -109,89 +109,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BrownCat_Backward_0
+      name: BrownCat_Up_0
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 0
-        width: 30
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9b8429130aa3b8460800000000000000
-      internalID: 7244948885256423609
+      spriteID: 9cb2670f75c7e994487c551c84ae4643
+      internalID: -1820688722
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BrownCat_Backward_1
+      name: BrownCat_Up_1
       rect:
         serializedVersion: 2
-        x: 33
+        x: 32
         y: 0
-        width: 30
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 07644456d586a0d50800000000000000
-      internalID: 6704285745634625136
+      spriteID: 2b0d1e0978cb81c4d998e0ebf1bcc4ad
+      internalID: 1524393147
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BrownCat_Backward_2
+      name: BrownCat_Up_2
       rect:
         serializedVersion: 2
-        x: 65
+        x: 64
         y: 0
-        width: 30
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 08181522b37c072e0800000000000000
-      internalID: -2129983566953479808
+      spriteID: 62b86c6663962d746b51915e2d5e0105
+      internalID: 1843974692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BrownCat_Backward_3
+      name: BrownCat_Up_3
       rect:
         serializedVersion: 2
-        x: 97
+        x: 96
         y: 0
-        width: 30
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5871426026f5fbd10800000000000000
-      internalID: 2143536822266107781
+      spriteID: 5197fd292a50b3246a74efe221467c2f
+      internalID: 471260783
       vertices: []
       indices: 
       edges: []
@@ -200,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: da4e037fa59e61b47b17ed1140966739
     internalID: 0
     vertices: []
     indices: 
@@ -208,12 +208,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      BrownCat_Backward_0: 7244948885256423609
-      BrownCat_Backward_1: 6704285745634625136
-      BrownCat_Backward_2: -2129983566953479808
-      BrownCat_Backward_3: 2143536822266107781
+      BrownCat_Up_0: -1820688722
+      BrownCat_Up_1: 1524393147
+      BrownCat_Up_2: 1843974692
+      BrownCat_Up_3: 471260783
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
