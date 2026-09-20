@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 67d8d024e2397f74abdc288257ff30cb
+guid: 2c3324f564426b141b864a9516c19cee
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: -8707122633345411569
     second: 6-EmptySpaceWithPowerPellet_0
+  - first:
+      213: 6058433988262913966
+    second: 6-EmptySpaceWithPowerPellet_1
+  - first:
+      213: 4163427747068533105
+    second: 6-EmptySpaceWithPowerPellet_2
+  - first:
+      213: 7041339100447135451
+    second: 6-EmptySpaceWithPowerPellet_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -135,10 +144,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 21ae4d670907b9d4fb0ae971a5f423dd
-      internalID: -617633805
+      spriteID: ea760950d91e31450800000000000000
+      internalID: 6058433988262913966
       vertices: []
       indices: 
       edges: []
@@ -157,10 +166,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d4c23c4754b75614ab01ee806ae7a23a
-      internalID: 2033280360
+      spriteID: 17956082a7777c930800000000000000
+      internalID: 4163427747068533105
       vertices: []
       indices: 
       edges: []
@@ -179,10 +188,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 007b12e729e65d647a30181302cacede
-      internalID: 858673609
+      spriteID: bd65831fa9cd7b160800000000000000
+      internalID: 7041339100447135451
       vertices: []
       indices: 
       edges: []
@@ -191,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 48a06b59ddaaf724ca4d27a141f3ad41
+    spriteID: be21c37b5739e04459279e252e5dd3ab
     internalID: 0
     vertices: []
     indices: 
@@ -204,9 +213,9 @@ TextureImporter:
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       6-EmptySpaceWithPowerPellet_0: -8707122633345411569
-      6-EmptySpaceWithPowerPellet_1: -617633805
-      6-EmptySpaceWithPowerPellet_2: 2033280360
-      6-EmptySpaceWithPowerPellet_3: 858673609
+      6-EmptySpaceWithPowerPellet_1: 6058433988262913966
+      6-EmptySpaceWithPowerPellet_2: 4163427747068533105
+      6-EmptySpaceWithPowerPellet_3: 7041339100447135451
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
