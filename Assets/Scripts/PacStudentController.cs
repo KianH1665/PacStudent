@@ -31,10 +31,6 @@ public class PacStudentController : MonoBehaviour
             targetIndex = (targetIndex + 1) % corners.Length;
             BeginMove();
         }
-
-        if (Time.deltaTime > 0.1) {
-            Debug.Log(Time.deltaTime);
-        }
     }
 
     void BeginMove() {
